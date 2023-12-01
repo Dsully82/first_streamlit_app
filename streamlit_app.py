@@ -73,9 +73,9 @@ if streamlit.button('Add a Fruit to the List'):
 # output it to the screen as a table
 # don't run anything past here while we troubleshoot
 
-streamlit.stop()
+#streamlit.stop()
 
-streamlit.write('Thanks for adding ', add_my_fruit)
+#streamlit.write('Thanks for adding ', add_my_fruit)
 
 #This will not work correctly, but just go with it for now
 
